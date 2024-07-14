@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937511536097",
+    "project_id": "controlador-de-despesas-c0d0d",
+    "storage_bucket": "controlador-de-despesas-c0d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937511536097:android:f2036e788a6f80c0b7fea0",
+        "android_client_info": {
+          "package_name": "com.example.controlador_de_despesas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxgYipe7hhuKkLSR_FL0ssG7mYvTAtLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
